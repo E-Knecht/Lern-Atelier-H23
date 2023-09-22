@@ -21,9 +21,9 @@ consol.writeline(error)
 
 
 ## Abeitspakete für 22.9
-- [x]informieren über Web scraper (C#)
-- [x]Web scraper programmierne (2 Lektionen)
-- [x]bug finden und code Repariren (Falls nötig)
+- [x] informieren über Web scraper (C#)
+- [x] Web scraper programmierne (2 Lektionen)
+- [x] bug finden und code Repariren (Falls nötig)
 
 ## Metakognitive
  Die Lernperiode begann mit der Frage: "Was soll ich machen?" Ich wusste nicht, an was ich arbeiten sollte. Zuerst entschied ich mich für ein Zahlenrätselspiel, das ich an einem Tag geschrieben habe. Danach beschloss ich, einen Code zu schreiben, mit dem ich das Wetter anzeigen konnte. Somit begann ich mich darüber zu informieren, wie man überhaupt eine Webseite in C# öffnet. Nach einigen Fehlern gelang es mir schließlich. Obwohl ich mein Tagesziel erreicht hatte, fühlte ich mich noch nicht bereit, den nächsten Schritt zu machen, und begann damit, meine Module zu überarbeiten.
