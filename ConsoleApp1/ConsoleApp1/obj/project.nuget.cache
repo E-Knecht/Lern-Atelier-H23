@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2edAEIqE2hyvn5PkHGXlGZxjsURh2euP3bMLhlQ7V3LnekuR/XGO24tepdGO6CkKZjDS/IRhv5eb6hwNTSzmmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eloik\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eloik\\.nuget\\packages\\htmlagilitypack\\1.11.53\\htmlagilitypack.1.11.53.nupkg.sha512"
+  ],
+  "logs": []
+}
